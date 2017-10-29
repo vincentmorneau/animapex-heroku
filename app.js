@@ -16,7 +16,7 @@ var sslOptions = {
 var targetUrl = 'https://apex.oracle.com';
 
 app.get('/', function(req, res, next){
-  res.redirect('/pls/apex/f?p=12192:1');
+  res.redirect('/pls/apex/f?p=430:1');
 });
 
 app.use(['/i', '/pls/apex'], proxy(

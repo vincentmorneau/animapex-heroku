@@ -1,5 +1,5 @@
 {
-  "name": "animapex-website",
+  "name": "animapex-heroku",
   "version": "1.0.0",
   "description": "Redirects to the AnimAPEX website",
   "main": "app.js",
